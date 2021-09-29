@@ -1,2 +1,2 @@
-# learning-git-github
- Course Git e GitHub with GitHub Desktop
+# Learning Git and GitHub
+ Course Git and GitHub with GitHub Desktop
